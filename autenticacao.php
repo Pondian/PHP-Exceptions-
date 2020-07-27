@@ -2,7 +2,7 @@
 
 use Alura\Banco\Modelo\CPF;
 use Alura\Banco\Modelo\Funcionario\Diretor;
-use Alura\Banco\Service\Autenticador;
+use Banco\Service\Autenticador;
 
 require_once 'autoload.php';
 
